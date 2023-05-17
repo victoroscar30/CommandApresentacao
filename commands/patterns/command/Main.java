@@ -40,7 +40,7 @@ public class Main {
         Music music = new Music();
         Persianas persianas = new Persianas();
 
-        //Set the slots with new commands
+        //Set the slots with new commands da
         GoogleHome.setCommand(
                 1,
                 new ComandoTudoLigado(music, luzesDaSala, persianas),
